@@ -37,6 +37,7 @@ func main() {
 	rand.Seed(time.Now().UnixNano())
 
 	dice, sides := 2, 12
+
 	rolls := 1
 
 	for r := 1; r <= rolls; r++ {
