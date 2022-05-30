@@ -1,1 +1,1 @@
-# Go-Exercise-Fundamentals
+# Practice Go 2
